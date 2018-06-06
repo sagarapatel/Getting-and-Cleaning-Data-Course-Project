@@ -10,7 +10,7 @@ Created R script called run_analysis.R that does the following.
 4. Appropriately labels the data set with descriptive variable names.
 5. From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject.
 
-# The data linked run_analysis.R represent data collected from the accelerometers from the Samsung Galaxy S smartphone. 
+# The data linked to run_analysis.R represent data collected from the accelerometers from the Samsung Galaxy S smartphone. 
 # A full description is available at the site where the data was obtained:
 
 http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
